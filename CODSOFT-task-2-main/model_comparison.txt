@@ -1,0 +1,8 @@
+Model               Accuracy
+------------------------------
+Random Forest        0.8380
+Logistic Regression  0.8045
+KNN (k=5)            0.6592
+
+Best model: Random Forest
+Mean cross-val accuracy (best model): 0.8015
